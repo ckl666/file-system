@@ -1,4 +1,5 @@
 # file-system
+```c
 编译命令：
 
 客户端：
@@ -26,3 +27,4 @@ g++ balance.cpp balanceWork.cpp  AnalysisMessage.cpp -o balance -lmuduo_net -lmu
 1、当前问目录下必须要有一个file目录
 
 2、必须要有相应的数据库表
+```
